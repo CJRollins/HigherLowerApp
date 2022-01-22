@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HigherLower</string>
+    <string name="intro">I\'m thinking of a number between 1 and 20</string>
+    <string name="query">Can you guess it?</string>
+    <string name="statement">Guess!</string>
+    <string name="imageDesc">A mess of numbers in a pile.</string>
+
+</resources>
